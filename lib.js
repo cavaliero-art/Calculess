@@ -1,3 +1,6 @@
+
+
+
 module.exports = class Calc {
 
     limRightOf(x, func) {
@@ -152,3 +155,6 @@ module.exports = class Calc {
     }
 
 }
+
+
+"hello world"
